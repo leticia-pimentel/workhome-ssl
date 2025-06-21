@@ -4,8 +4,8 @@ Este arquivo lista os comandos básicos vistos no tutorial do site https://githo
 
 ## Comandos utilizados (em teoria):
 
-- git config --global user.name "Seu Nome"
-- git config --global user.email "seu@email.com"
+- git config --global user.leticia "leticia"
+- git config --global user.leticiaparagao@gmail.com "leticiaparagao@gmail.com"
 - git status
 - git add nome-do-arquivo
 - git commit -m "mensagem"
